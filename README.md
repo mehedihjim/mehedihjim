@@ -1,11 +1,11 @@
-[![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8)](https://rishavchanda.io)
+[![MasterHead](https://camo.githubusercontent.com/91c7a43399e63e18b0bda809b2ac203d159b06b07c91ac1f9b1cadbc38998504/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mehedi H. Jim</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align='right' alt='mhjim git' width="400" src='https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif'
+<img align='right' alt='mhjim git' width="400" src="https://tenor.com/search/coding-gifs](https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedihjim&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihjim" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mhjiminfo" target="blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="mhjiminfo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mhjiminfo" target="blank"><img src="https://img.shields.io/twitter/follow/mhjiminfo?logo=twitter&style=for-the-badge" alt="mhjiminfo" /></a> </p>
 
 - 🔭 I’m currently working on **kaloChat**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **https://beacons.ai/mhjim**
 
-- ⚡ Fun fact **Newbie**
+- ⚡ Fun fact **I'm a Newbie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
