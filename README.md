@@ -1,4 +1,4 @@
-![alt text](https://pin.it/3qiPuFEHW)
+![alt text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXpxMHZuaHUzNHYxeDVjenluZDkxcnV3anA0NjdtZ2NjbXFqYzdzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ef8hfQgW1JcaUPWnp8/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Mehedi H. Jim</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
