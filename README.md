@@ -1,4 +1,4 @@
-![alt text]([https://media.licdn.com/dms/image/v2/D5616AQEf2MaqPMRGaw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721142192983?e=1732752000&v=beta&t=ADQlJN1HhriiB7LONA-QRwjzx6Pw8FPFDsmTshjSzoo](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif))
+![alt text](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center">Hi 👋, I'm Mehedi H. Jim</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
