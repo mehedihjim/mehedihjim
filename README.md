@@ -1,4 +1,4 @@
-![alt text](https://ibb.co.com/C2KtVf7)
+![alt text](https://i.ibb.co.com/ySFRgry/MH-Jim.gif)
 
 <h1 align="center">Hi 👋, I'm Mehedi H. Jim</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
