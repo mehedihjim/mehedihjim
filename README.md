@@ -1,5 +1,5 @@
-# 💫 About Me:
 ![alt text](https://i.ibb.co.com/ySFRgry/MH-Jim.gif)
+# 💫 About Me:
 🔨 Working on: Personal Portfolio & kaloChat<br><br>🌱 Learning: MERN Stack Development<br><br>✍️ Writing: mhjim.hashnode.dev<br><br>💬 Ask me anything tech or dev-related<br><br>📫 Reach me: beacons.ai/mhjim<br><br>⚡ Fun fact: Just getting started, and loving the journey
 
 
