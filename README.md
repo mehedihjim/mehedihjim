@@ -1,6 +1,9 @@
 ![alt text](https://i.ibb.co.com/ySFRgry/MH-Jim.gif)
 # 💫 About Me:
 <img align='right' alt='mhjim git' width="400px" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/65198b6e-e407-4c8f-8500-6768cb35a76c_car_1x1.gif?h=cf2ee241356101c627e3efd748d598c0">
+
+
+
 🔨 Working on: Personal Portfolio & kaloChat<br><br>🌱 Learning: MERN Stack Development<br><br>✍️ Writing: mhjim.hashnode.dev<br><br>💬 Ask me anything tech or dev-related<br><br>📫 Reach me: beacons.ai/mhjim<br><br>⚡ Fun fact: Just getting started, and loving the journey
 
 
